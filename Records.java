@@ -1,3 +1,5 @@
 public class Records{
-    Systom.out.println("hello world");
+    public void main(String []){
+        Systom.out.println("hello world");
+    }
 }
